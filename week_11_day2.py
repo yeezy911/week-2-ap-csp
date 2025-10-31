@@ -28,16 +28,13 @@ print(f"My name is {first_name} and my favorite color is {favorite_color}.")
 # Use arithmetic operators with your favorite number
 
 
+
 #  Step 4: User Input Practice
 # Ask the user two questions and combine answers
 number_1 = int(input("Pick a number "))
 number_2 = int(input("Pick another number "))
 number_3 = number_1 + number_2
-print(f)
-
-
+print(f"The sum of the two numebers you picked is {number_3}.")
 
 # ⚙️ Step 5: Final Challenge (combine it all)
 # Use math and strings together
-
-
